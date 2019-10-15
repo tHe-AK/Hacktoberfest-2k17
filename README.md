@@ -14,3 +14,4 @@ To get ready to submit exercises:
 - Navigate back to the repository.
 - Start a pull request, following the template to complete the title, description, and labels.
 - Open the pull request to merge in your about.md file.
+- Thats all Folks!
